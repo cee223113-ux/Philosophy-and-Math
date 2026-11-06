@@ -1,0 +1,10 @@
+streamlit>=1.35
+torch
+transformers
+umap-learn
+plotly
+pandas
+numpy
+jieba
+safetensors
+huggingface_hub
